@@ -8,6 +8,10 @@
     <artifactId>java-lang-io-learn</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <modules>
+        <module>ch01-io-file</module>
+        <module>ch02-io-net</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
