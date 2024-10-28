@@ -1,4 +1,4 @@
-package org.example.learn.java.io.file.rui;
+package org.example.learn.java.io.file.uri;
 
 import org.junit.Before;
 import org.junit.Test;
@@ -15,7 +15,7 @@ import java.net.URISyntaxException;
  * URI = scheme ":" ["//" authority] path ["?" query] ["#" fragment]
  * authority = [userinfo "@"] host [":" port]
  */
-public class URITest {
+public class URISpecTest {
 
     private URI uri;
 
